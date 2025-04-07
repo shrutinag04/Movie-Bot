@@ -8,3 +8,6 @@ Ask me anything about movie plots!
 - Simple chat interface
 
 **Type 'exit' to quit the chat.**
+
+-medium blog: https://medium.com/@shruti.nagpure04/building-a-moviebot-to-answer-your-queries-related-to-movie-plots-with-rag-langgraph-and-gemini-9f5bc5cf2028
+-Kaggle Notebook: https://www.kaggle.com/code/shrutinagpure4/moviebot
